@@ -10,12 +10,6 @@ This project will walk you through the process of building Deep Neural Networks 
 Please unzip data.zip file into data folder before running this jupyter notebook file.
 Download data.zip: https://drive.google.com/file/d/1Mkqf8r_8mQLjUEsvkydGIoDxPIsXbb3Z/view?usp=sharing
 
-## The Dataset
-The dataset contains 5000 labeled images of dogs and cats in HDF5 format.
-
-
-
-![](https://miro.medium.com/max/1500/1*36MELEhgZsPFuzlZvObnxA.gif)
 ----
 ### _Hands-on tutorial_: 
 
